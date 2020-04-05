@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#principal {
+    display: flex;
+    height: 100vh;
+    background-color: #4b0082;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+}
+
+#conteudo {
+    text-align: center;
+    font-size: 1.6vw;
+}
+
+
+#conteudo h1 {
+    font-weight: bold;
+}
+
+#conteudo h2 {
+    font-weight: 100;
+}
